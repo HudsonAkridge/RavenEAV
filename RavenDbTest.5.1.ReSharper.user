@@ -1,0 +1,280 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/f:Form1.Designer.cs" caret="4600" fromTop="35" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Model/f:Attribute.cs" caret="264" fromTop="11" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Data/f:RavenDbStoreManager.cs" caret="13" fromTop="0" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Model/f:Value.cs" caret="894" fromTop="27" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Model/f:Entity.cs" caret="263" fromTop="12" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Model/f:AttributeValueStore.cs" caret="840" fromTop="13" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Tests/f:EntityTests.cs" caret="4295" fromTop="39" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Model/f:AttributeValueStore.cs" caret="2513" fromTop="33" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Model/f:Value.cs" caret="1572" fromTop="29" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Model/f:Value.cs" caret="177" fromTop="8" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Model/f:Value.cs" caret="1572" fromTop="19" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Model/f:Value.cs" caret="1572" fromTop="54" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Model/f:Value.cs" caret="1572" fromTop="18" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Model/f:Value.cs" caret="1718" fromTop="24" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Model/f:Value.cs" caret="785" fromTop="35" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Model/f:AttributeValueStore.cs" caret="2919" fromTop="65" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Model/f:AttributeValueStore.cs" caret="2044" fromTop="25" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Model/f:AttributeValueStore.cs" caret="4061" fromTop="58" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Model/f:Value.cs" caret="595" fromTop="12" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Model/f:Value.cs" caret="1876" fromTop="28" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Model/f:Value.cs" caret="2843" fromTop="15" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Model/f:Value.cs" caret="2843" fromTop="25" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Model/f:Value.cs" caret="2843" fromTop="33" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Model/f:Value.cs" caret="2843" fromTop="41" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Model/f:Value.cs" caret="2843" fromTop="49" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Model/f:Value.cs" caret="2843" fromTop="58" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Model/f:Value.cs" caret="1985" fromTop="17" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Tests/f:EntityTests.cs" caret="4820" fromTop="52" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Tests/f:EntityTests.cs" caret="4820" fromTop="44" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Tests/f:EntityTests.cs" caret="4820" fromTop="51" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Model/f:Entity.cs" caret="322" fromTop="14" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Model/f:AttributeValueStore.cs" caret="840" fromTop="13" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Tests/f:EntityTests.cs" caret="4820" fromTop="53" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Tests/f:EntityTests.cs" caret="4820" fromTop="56" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Tests/f:EntityTests.cs" caret="4994" fromTop="64" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Tests/f:EntityTests.cs" caret="4053" fromTop="42" />
+      <File id="91400826-5169-4AE2-883E-678AC3473BE5/d:Tests/f:EntityTests.cs" caret="4781" fromTop="59" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="ICollection" priority="4" />
+      <Item value="prop" priority="12" />
+      <Item value="Value`0" priority="8" />
+      <Item value="int" priority="7" />
+      <Item value="public" priority="31" />
+      <Item value="class" priority="5" />
+      <Item value="string" priority="6" />
+      <Item value="object" priority="14" />
+      <Item value="abstract" priority="7" />
+      <Item value="return" priority="21" />
+      <Item value="void" priority="8" />
+      <Item value="Value" priority="8" />
+      <Item value="value" priority="14" />
+      <Item value="DateTime`0" priority="7" />
+      <Item value="if" priority="9" />
+      <Item value="null" priority="6" />
+      <Item value="var" priority="8" />
+      <Item value="as" priority="1" />
+      <Item value="dateValue" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="Double`0" priority="0" />
+      <Item value="Tests" priority="0" />
+      <Item value="TestFixture" priority="1" />
+      <Item value="_documentStore" priority="7" />
+      <Item value="new" priority="15" />
+      <Item value="DocumentStore" priority="0" />
+      <Item value="Url" priority="0" />
+      <Item value="HttpStyleUriParser`0" priority="0" />
+      <Item value="TestFixtureTearDown" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="session" priority="8" />
+      <Item value="ctor" priority="4" />
+      <Item value="Values" priority="4" />
+      <Item value="protected" priority="4" />
+      <Item value="Entity`0" priority="5" />
+      <Item value="Guid`0" priority="5" />
+      <Item value="Name" priority="1" />
+      <Item value="entity" priority="5" />
+      <Item value="Attribute`0" priority="4" />
+      <Item value="attribute" priority="13" />
+      <Item value="Id" priority="1" />
+      <Item value="Data" priority="5" />
+      <Item value="m_Values" priority="1" />
+      <Item value="Attribute" priority="1" />
+      <Item value="Type" priority="0" />
+      <Item value="foreach" priority="2" />
+      <Item value="entities" priority="0" />
+      <Item value="Assert`0" priority="0" />
+      <Item value="retrievedEntity" priority="1" />
+      <Item value="CollectionAssert`0" priority="0" />
+      <Item value="interface" priority="2" />
+      <Item value="IValue`0" priority="12" />
+      <Item value="T`0" priority="4" />
+      <Item value="TextValue`0" priority="9" />
+      <Item value="static" priority="1" />
+      <Item value="ThreadStatic" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="DocumentStore`0" priority="0" />
+      <Item value="typeof" priority="1" />
+      <Item value="TextValues" priority="3" />
+      <Item value="where" priority="2" />
+      <Item value="System" priority="0" />
+      <Item value="ValueType`0" priority="0" />
+      <Item value="TData`0" priority="1" />
+      <Item value="DateValue`0" priority="1" />
+      <Item value="DateValues" priority="1" />
+      <Item value="NumericValue`0" priority="2" />
+      <Item value="IEnumerable" priority="1" />
+      <Item value="ParentId" priority="2" />
+      <Item value="parentId" priority="2" />
+      <Item value="AttributeId" priority="2" />
+      <Item value="attributeId" priority="0" />
+      <Item value="enum" priority="0" />
+      <Item value="ValueTypes`0" priority="7" />
+      <Item value="valueTypes" priority="0" />
+      <Item value="valueType" priority="0" />
+      <Item value="override" priority="3" />
+      <Item value="data" priority="1" />
+      <Item value="base" priority="0" />
+      <Item value="obj" priority="1" />
+      <Item value="true" priority="1" />
+      <Item value="valueObj" priority="4" />
+      <Item value="false" priority="2" />
+      <Item value="ValueType" priority="1" />
+      <Item value="DateData" priority="0" />
+      <Item value="Date" priority="0" />
+      <Item value="textValue" priority="1" />
+      <Item value="switch" priority="1" />
+      <Item value="BooleanValue`0" priority="0" />
+      <Item value="DisplayValue`0" priority="0" />
+      <Item value="SetData`0" priority="0" />
+      <Item value="break" priority="0" />
+      <Item value="AttributeValueStore`0" priority="1" />
+      <Item value="AttributeValueStore" priority="2" />
+      <Item value="textAtt" priority="1" />
+      <Item value="List" priority="0" />
+      <Item value="allValues" priority="1" />
+      <Item value="Collection" priority="0" />
+      <Item value="NumericValues" priority="0" />
+      <Item value="HashSet" priority="0" />
+      <Item value="NonSerialized" priority="1" />
+      <Item value="GenericValue`0" priority="0" />
+      <Item value="from" priority="0" />
+      <Item value="select" priority="0" />
+      <Item value="retrievedEntities" priority="0" />
+      <Item value="InvariantCultureIgnoreCase" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="2" />
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Raven.Client.Document.DocumentStore">
+      <Item value="Initialize`0" priority="0" />
+      <Item value="Dispose`0" priority="0" />
+      <Item value="OpenSession`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RavenDbTest.Model.Entity">
+      <Item value="Values" priority="2" />
+      <Item value="AddValue`0" priority="0" />
+      <Item value="Id" priority="0" />
+      <Item value="Name" priority="2" />
+      <Item value="GetAllValues`0" priority="5" />
+      <Item value="AttributeValueStore" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.ICollection`1">
+      <Item value="Add`0" priority="2" />
+      <Item value="Remove`0" priority="1" />
+      <Item value="SingleOrDefault`1" priority="1" />
+      <Item value="ToArray`1" priority="1" />
+      <Item value="Cast`1" priority="1" />
+      <Item value="Any`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RavenDbTest.Model.Attribute">
+      <Item value="Id" priority="7" />
+      <Item value="Type" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RavenDbTest.Model.Value">
+      <Item value="AttributeId" priority="1" />
+      <Item value="SetData`0" priority="0" />
+      <Item value="ParentId" priority="0" />
+      <Item value="ValueType" priority="0" />
+      <Item value="Data" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Raven.Client.IDocumentSession">
+      <Item value="Store`0" priority="1" />
+      <Item value="SaveChanges`0" priority="0" />
+      <Item value="Load`1" priority="2" />
+      <Item value="Delete`1" priority="2" />
+      <Item value="Advanced" priority="0" />
+      <Item value="Query`2" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Guid">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Raven.Client.ISyncAdvancedSessionOperation">
+      <Item value="Lazily" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="AreEqual`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.CollectionAssert">
+      <Item value="AreEquivalent`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@RavenDbTest.Data.RavenDbStoreManager">
+      <Item value="GetDocumentStore`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RavenDbTest.Model.TextValue">
+      <Item value="AttributeId" priority="1" />
+      <Item value="SetData`0" priority="0" />
+      <Item value="Equals`0" priority="0" />
+      <Item value="Data" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@RavenDbTest.Model.ValueTypes">
+      <Item value="Text" priority="3" />
+      <Item value="Numeric" priority="2" />
+      <Item value="Date" priority="1" />
+      <Item value="Boolean" priority="1" />
+      <Item value="Display" priority="1" />
+      <Item value="Unknown" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@RavenDbTest.Model.Value`1">
+      <Item value="BuildValue`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RavenDbTest.Model.IValue">
+      <Item value="ParentId" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RavenDbTest.Model.AttributeValueStore">
+      <Item value="AddValue`0" priority="0" />
+      <Item value="GetValuesByType`1" priority="0" />
+      <Item value="GetAllValues`0" priority="0" />
+      <Item value="DateValues" priority="0" />
+      <Item value="TextValues" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="AddRange`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Raven.Client.Linq.IRavenQueryable`1">
+      <Item value="Customize`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RavenDbTest.Model.DateValue">
+      <Item value="Data" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="First`1" priority="0" />
+      <Item value="Count`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
